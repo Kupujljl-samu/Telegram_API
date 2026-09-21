@@ -1,0 +1,9 @@
+# Данные внешнего API сервера
+ip = '127.0.0.1'
+port = 443
+
+# Токен бота
+token = "0000000000:XXXXXxxxxxxxxxxx-xxxxxxxxxxxxxxxxxx"
+
+# ID беседы или чата
+chat = -1111111111111
