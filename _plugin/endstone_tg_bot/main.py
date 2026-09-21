@@ -4,7 +4,7 @@ import subprocess, sys
 
 class Main(Plugin):
     api_version = "0.11"
-    authors = ["Samurai_project"]
+    authors = ["Samurai_projects"]
     prefix = "TG_Bot"
 
     def on_load(self):
